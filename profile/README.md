@@ -47,7 +47,7 @@ In active development. Numbers grow nightly — see live counts at
 Nigel E. Basarokwe — Zimbabwe.
 [inzwi.app](https://inzwi.app) ·
 [@nigelbasa](https://x.com/nigelbasa) ·
-<nigelbasa@outlook.com>
+
 
 ## Licence
 
